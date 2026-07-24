@@ -19,3 +19,8 @@ The goal is to provide data-driven recommendations that could help Cyclistic con
 - Member usage was strongest on weekdays, especially during morning and evening peak hours.
 - Casual rider usage increased on weekends and during warmer months.
 - Electric bikes were the most commonly used bike type for both groups.
+## Recommendations
+
+1. Target casual riders with weekend and seasonal membership promotions.
+2. Promote annual membership benefits to frequent electric-bike users.
+3. Use personalised digital marketing during peak casual-rider periods.
