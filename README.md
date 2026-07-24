@@ -33,3 +33,8 @@ The goal is to provide data-driven recommendations that could help Cyclistic con
 The analysis uses publicly available Divvy trip data covering July 2025 to June 2026. Cyclistic is a fictional company used for the Google Data Analytics Capstone case study.
 
 The original dataset was not uploaded to this repository because of its large size.
+## Visual Preview
+
+![Rides by Day of the Week](./rides_by_day_of_week.png)
+
+![Monthly Ridership Trends](./monthly_ridership_trends.png)
