@@ -12,3 +12,10 @@ The goal is to provide data-driven recommendations that could help Cyclistic con
 - Google Colab
 - Microsoft Word
 - GitHub
+## Key Findings
+
+- Annual members accounted for 64.36% of all rides, while casual riders accounted for 35.64%.
+- Casual riders took longer trips, averaging 18.57 minutes compared with 12.07 minutes for members.
+- Member usage was strongest on weekdays, especially during morning and evening peak hours.
+- Casual rider usage increased on weekends and during warmer months.
+- Electric bikes were the most commonly used bike type for both groups.
