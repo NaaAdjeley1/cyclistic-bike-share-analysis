@@ -28,3 +28,8 @@ The goal is to provide data-driven recommendations that could help Cyclistic con
 
 - [View the full case study report](./Cyclistic%20Bike-Share%20Case%20Study%20-%20Naa%20Adjeley%20Mensah-Quaye.pdf)
 - [View the Python analysis notebook](./Cyclistic%20Bike-Share%20Analysis.ipynb)
+## Data Source
+
+The analysis uses publicly available Divvy trip data covering July 2025 to June 2026. Cyclistic is a fictional company used for the Google Data Analytics Capstone case study.
+
+The original dataset was not uploaded to this repository because of its large size.
