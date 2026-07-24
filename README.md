@@ -24,3 +24,7 @@ The goal is to provide data-driven recommendations that could help Cyclistic con
 1. Target casual riders with weekend and seasonal membership promotions.
 2. Promote annual membership benefits to frequent electric-bike users.
 3. Use personalised digital marketing during peak casual-rider periods.
+## Project Files
+
+- [View the full case study report](./Cyclistic%20Bike-Share%20Case%20Study%20-%20Naa%20Adjeley%20Mensah-Quaye.pdf)
+- [View the Python analysis notebook](./Cyclistic%20Bike-Share%20Analysis.ipynb)
